@@ -1,6 +1,6 @@
 # escape-blade
 
-Partial Plugin is CakePHP escaple.
+Partial Plugin is CakePHP escape.
 
 ## Usage
 
