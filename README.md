@@ -9,7 +9,7 @@ AppView.php
 use EscapeBlade\View\EscapeBladeTrait;
 
 class AppView extends View {
-	use EscapeBladeTrait;
+    use EscapeBladeTrait;
 }
 ```
 
